@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Css/style1.css">
+	 <script type="text/javascript" src="Js/myscript.js"></script>
+	  
+	<title></title>
+
+
+</head>
+<body>
+<canvas id='canvas'></canvas>
+<span id='info'>Click and drag to draw!<span>
+</span>
+</span>
+</div>
+	<div class="background">
+  <nav>
+    <div class="navWrapper">
+      <a href="#">LOCAL STORAGE</a>
+    </div>
+  </nav>
+  
+
+    <div class="box">
+      <h2>You clicked the button</h2>
+      <h1 id="count"></h1>
+      <h3>times</h3>
+      <p>Refresh the browser to see Local Storage in action.</p>
+      <a href="#" id="btn" onclick="btnClicked()">Click me</a>
+    </div>
+ 
+  
+</div>
+
+
+
+
+</body>
+</html>
